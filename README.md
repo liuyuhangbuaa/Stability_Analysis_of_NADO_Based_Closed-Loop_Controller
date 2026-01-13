@@ -1,1 +1,2 @@
 # Stability Analysis of NADO Based Close Loop Contrller
+This file is a supplemented material serving for stability analysis of the neural augmented disturbance observer (NADO) based controller, which is a innovatively designed observer introduced in manuscript submitted to IEEE/ASME Transactions on Mechatronics with paper ID TMECH-09-2025-22078. It can also provide reference for the stability analysis of other similar studies. Standardized and detailed representations can be found in the PDF files.
